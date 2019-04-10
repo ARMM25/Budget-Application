@@ -1,3 +1,3 @@
 # Budget-Application
 
-Bugeting application built on JavaScript 
+Bugeting application built on JavaScript, Node.JS and ES6
